@@ -1,0 +1,28 @@
+/*
+*	WPGear. Adaptive Login Action
+*	style.css
+*/
+
+.adaptive-login-action_field_secretkey label{
+	color: red;
+}
+.adaptive-login-action_normal_field_ip{
+	text-align: center;
+    margin-bottom: 20px;
+}
+.adaptive-login-action_normal_field_ip span{ 
+    color: green;
+	padding-left: 5px;
+    padding-right: 5px;	
+}
+.adaptive-login-action_security_field_ip{
+	text-align: center;
+	margin-top: 10px;
+    margin-bottom: 20px;	
+}
+.adaptive-login-action_security_field_ip span{	
+	color: black;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-right: 5px;
+}

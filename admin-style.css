@@ -1,0 +1,21 @@
+/*
+* 	WPGear. Adaptive Login Action
+*	admin-style.css
+*/
+.adaptive-login-action_options_box {
+	margin-left: 20px;
+}
+.adaptive-login-action_option_whitelist_ip {
+	
+}
+.adaptive-login-action_warning {
+    text-align: center;
+    padding: 10px;
+    font-size: medium;
+    font-weight: normal;
+    color: #000000;
+    border-left: 4px solid orange;
+    background-color: rgba(199, 198, 195, 0.14);
+	margin-bottom: 20px;
+	border-radius: 4px;
+}
